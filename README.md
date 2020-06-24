@@ -51,8 +51,6 @@ Repair Computer Hardware and Software , Installation Systems surveillance camera
 ### 2016 - 2020 | Freelance
 Make Project Management and Web Sit For any place 
 
-### 2019 - 2020 | Ministry of Defense
-Make Three Project Management (Laravel Project) For Military Security Agency
 
 # Projects
 |  Date       |      Details                                                  |
