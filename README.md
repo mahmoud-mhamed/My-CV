@@ -56,7 +56,6 @@ Make Project Management and Web Sit For any place
 |  Date       |      Details                                                  |
 |-------------|---------------------------------------------------------------|
 | 2020 - 6    | Manufacturing and management system for AdmPlast              |
-| 2019 - 2020 | 3 Project Management(Laravel)For Military Security Agency     |
 | 2019        | WebSite For Egyptian Safety                                   |
 | 2019        | My WebSite [mahmoud-mohamed](http://mahmoud-mohamed.eb2a.com) |
 | 2020        | Project Management ( Laravel Project ) For                    |                  
